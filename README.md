@@ -95,7 +95,7 @@ Age group
 Loan term
 
 Dashboard Screenshots
-<img width="1080" height="805" alt="image" src="https://github.com/user-attachments/assets/af696a62-5049-46b1-b829-6f3dfa0c3afd" />
+<img width="1073" height="807" alt="image" src="https://github.com/user-attachments/assets/ad8746be-11e1-44d4-93a1-662406a607ef" />
 
 
 
